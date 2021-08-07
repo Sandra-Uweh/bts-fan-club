@@ -36,14 +36,13 @@ a{
 .tell{
 	text-align: center;
 	padding: 6px;
-	display:flex;
-	flex-wrap:wrap;
+	display:inline-block;
+	
 }
 .dent{
 	text-align: center;
 	padding: 6px;
-	display:flex;
-	flex-wrap:wrap;
+	display:inline-block
 	
 }
 a:hover{
