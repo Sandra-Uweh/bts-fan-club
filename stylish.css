@@ -39,6 +39,7 @@ a{
 	padding: 6px;
 	display:flex;
 	justify-content:center;
+	align-content:center;
 }
 .dent{
 	display: inline-block;
@@ -46,6 +47,7 @@ a{
 	padding: 6px;
 	display:flex;
 	justify-content:center;
+	align-content:center;
 }
 a:hover{
 	text-decoration: underline;
