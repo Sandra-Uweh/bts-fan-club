@@ -1,0 +1,29 @@
+/*selector{
+	property: value;
+}*/
+body{background: url(https://i.pinimg.com/originals/b2/3e/c2/b23ec272e466f786a5c07700a405c983.jpg) no-repeat center center fixed;
+background-size: cover;
+font-family: 'Georama', sans-serif;
+}
+p{
+	color: white;
+	text-align: center;
+}
+h1{
+	margin-top: 10px;
+	color: white;
+	text-align: center;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
